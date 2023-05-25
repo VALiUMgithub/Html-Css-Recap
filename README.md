@@ -37,6 +37,7 @@ The following topics will be covered in this unit:
   * Color: hexadecimal, rgb and named
   * Flexbox
   * Grid
+  * Nothing just checking.
   
 * Git & Git workflow
   * git clone
